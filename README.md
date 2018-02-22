@@ -1,6 +1,6 @@
 # curl Cheat Sheet
 [Official man page](https://curl.haxx.se/docs/manpage.html)  
-[Official FAQ] (https://curl.haxx.se/docs/faq.html)
+[Official FAQ](https://curl.haxx.se/docs/faq.html)
 
 ---
 
